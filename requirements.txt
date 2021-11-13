@@ -1,4 +1,5 @@
 pandas
+nltk
 voila
 packaging
 ipywidgets
